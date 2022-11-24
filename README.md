@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning linux and vue
 - 📫 How to reach me liwhikku@gmail.com
 - This is my blog https://whikk.github.io/
+- I use win11 and arcolinux
 
 <!---
 whikk/whikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
